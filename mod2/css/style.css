@@ -46,7 +46,7 @@ h1 {
 }
 
 .menu-item:nth-child(1) h2 {
-     background-color: #abd6d6;
+    background-color: #abd6d6;
 }
 
 .menu-item:nth-child(2) h2 {
@@ -55,7 +55,6 @@ h1 {
 
 .menu-item:nth-child(3) h2 {
     background-color: #9F99B9;
-    color: #262626;
 }
 
 h2 {
@@ -65,7 +64,7 @@ h2 {
     border-left: 1px solid black;
     padding: 2px;
     text-align: center;
-    color: #414141;
+    color: #262626;
 }
 
 p {
